@@ -139,7 +139,7 @@ span{
     transition: 0.2s linear;
 }
 
-home-image img:hover{
+.home-image img:hover{
     font-size: 1.8rem;
     font-weight: 500;
 }
@@ -200,7 +200,7 @@ home-image img:hover{
 .typing-text span::before{
     content: "Software Developer";
     color: #b74b4b;
-    animation: words 20s infinite;
+    animation: words 10s infinite;
 }
 
 .typing-text span::after{
